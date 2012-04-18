@@ -10,6 +10,6 @@ group :development do
   gem "rest-client"
   gem "github_api"
   gem "nokogiri"
-  gem "ember-docs", :git => "https://github.com/emberjs/docs-generator.git"
+  gem "ember-docs", :git => "https://github.com/tubbo/docs-generator.git"
   gem "kicker"
 end
